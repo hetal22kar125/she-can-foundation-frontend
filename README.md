@@ -21,7 +21,7 @@ A modern and responsive frontend website created for the She Can Foundation inte
 
 ## Live Demo
 
-[View Live Website](https://your-live-link.netlify.app/)
+[View Live Website](https://hetal22kar125.github.io/she-can-foundation-frontend/)
 
 ## Author
 
