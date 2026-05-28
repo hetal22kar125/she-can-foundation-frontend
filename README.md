@@ -25,4 +25,4 @@ A modern and responsive frontend website created for the She Can Foundation inte
 
 ## Author
 
-Your Name
+Hetal Baviskar
